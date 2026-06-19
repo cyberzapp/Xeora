@@ -128,4 +128,7 @@ Invoke-RestMethod -Uri "http://localhost:3000/api/payloads" -Method Post -Body '
 ```
 
 ---
-*Built autonomously with Gemini for advanced workflow orchestration.*
+## Contributing
+Found a bug 🐛 or have a feature idea ✨? Contact me
+
+---
