@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+crewai
+langchain
+langchain-community
+supabase
+pydantic
+python-dotenv
